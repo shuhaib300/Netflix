@@ -1,0 +1,421 @@
+.bg_image{
+margin-top: -65px;
+width: 100%;
+background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/a43711df-c428-4f88-8bb3-b2ac5f20608f/32935458-d049-44c2-b94b-32f16d60ded1/IN-en-20230227-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+background-size: cover;
+height: 795px;
+color: white;
+}
+.fade_top{
+  position: relative;
+  height: 269px;
+  background-image: linear-gradient(360deg,transparent,rgba(37,37,37,.75),#111);
+}
+.logo{
+margin-top: 48px;
+width: 205px;
+position:relative;
+margin-left: 37px;
+}
+.btn{ 
+  margin-top: 40px;
+  margin-right: 50px;
+  border-radius: 3px;
+  width: 80px;
+  height: 37px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: normal;
+}
+.lang{
+  padding-top: 40px;
+  margin-left: 997px ;
+  background-color: #111 !important;
+  border-color: white !important;
+  border-radius: 0 !important;
+  width: 100px;
+  height: auto;
+  cursor: auto !important;
+}
+.langlist{
+  background-color: rgb(165, 162, 162) !important;
+  color: white !important;  
+}
+.langlist:hover{
+  background-color: rgb(98, 94, 94) !important;
+}
+.globe{
+  height: 15px;
+  padding-bottom: 2px;
+}
+.greater{
+  margin-top: 30px;
+  margin-left: -80px !important;
+  color: white;
+}
+.content{
+margin-top: -197px;
+padding-left: 360px;
+height: 190px;
+font-weight: 700px;
+  }
+  .content1{
+    text-align: center;
+    font-size: 4rem;
+    max-width: 800px;
+    font-weight: 900px;
+    padding-bottom: 0.3rem;
+  }
+  .content2{
+    padding-left: 220px;
+    font-size: 1.5rem;
+    font-weight: 300px;
+  }
+  .content3{
+    padding-left: 95px;
+    padding-top: 20px;
+    font-size: 1.2rem;
+    color: white;
+  }
+.fade_bottom{
+  height: 617px;
+  background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.75),#111);
+}
+.d-flex{
+  margin-top: -345px;
+  margin-left: 388px;
+  height: 70px;
+  width: 780px;
+  border-radius: 0 !important;
+}
+.emailbutton{
+  margin-top: 0px;
+  margin-left: -7px;
+  background-color: #e50914 !important;
+  color: rgb(242, 240, 240) !important;
+  height: 70px;
+  width: 350px;
+  border-color: #e50914 !important;
+  border-radius: 0 !important;
+  font-size: 33px !important;
+  font-weight: 490 !important;
+  font-family: netflix;
+} 
+.line{
+  width: 100%;
+  height: 9px;
+  background-color: rgb(50, 48, 48);
+}
+.first{
+  width: 100%;
+  height: 560px;
+  background-color: black;
+}
+.content4{
+  padding-top: 215px !important;
+  padding-left: 176px;
+  font-size: 3.125rem;
+  line-height: 1.1;
+  margin-bottom: .5rem;
+  font-weight: 750px !important;
+  font-family: Arial, Helvetica;
+  font-weight: bold;
+  color: white;
+  min-width: 740px;
+}
+
+.content5{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+  padding-top: 10px;
+  padding-left: 176px;
+  max-width: 789px;
+  font-weight: normal;
+  font-size: 24px;
+}
+.img1{
+  margin-top: -293px;
+  margin-left: 755px;
+  display: flex;
+  width: 600px;
+  height: 450px;
+}
+.content6{
+  margin-top: -305px;
+  padding-left: 765px;
+  font-size: 3.125rem;
+  line-height: 1.1;
+  margin-bottom: .5rem;
+  font-weight: 750px !important;
+  font-family: Arial, Helvetica;
+  font-weight: bold;
+  color: white;
+  max-width: 1320px;
+}
+.content7{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+  padding-top: 10px;
+  padding-left: 765px;
+  max-width: 1320px;
+  font-weight: normal;
+  font-size: 24px;
+}
+.img2{
+  margin-top: 80px;
+  margin-left: 190px;
+  height: 400px;
+  width: 530px;
+}
+.img3{
+  padding-top: 293px;
+  margin-left: 755px;
+  display: flex;
+  width: 500px;
+  height: 450px;
+}
+.content8{
+  margin-top: -245px !important;
+  padding-left: 176px;
+  font-size: 3.125rem;
+  line-height: 1.1;
+  margin-bottom: .5rem;
+  font-weight: 750px !important;
+  font-family: Arial, Helvetica;
+  font-weight: bold;
+  color: white;
+  min-width: 740px;
+}
+.content9{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+  padding-top: 10px;
+  padding-left: 176px;
+  max-width: 749px;
+  font-weight: normal;
+  font-size: 24px;
+}
+.img4{
+  margin-top: 80px;
+  margin-left: 160px;
+  height: 450px;
+  width: 600px;
+}
+.faq{
+  width: 100%;
+  height: 960px;
+  background-color: black;
+}
+.faqhead{
+  padding-top: 70px;
+  padding-left: 385px;
+  font-size: 3.225rem;
+  line-height: 1.1;
+  margin-bottom: .5rem;
+  font-weight: bold !important;
+  color: white;
+  max-width: 1320px;
+}
+.faqbox{
+  width: 1170px;
+  height: 85px;
+  margin-left: 175px;
+  margin-top: 8px;
+  margin-bottom: -22px;
+  background-color: rgb(49, 49, 49);
+  color: white;
+  padding-left: 23px;
+  padding-top: 24px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.faqbox:hover{
+background-color: rgb(89, 88, 88);
+}
+.search2{
+  margin-top: 35px;
+  height: 70px;
+  width: 800px;
+  border-radius: 0 !important;
+}
+.emailbutton2{
+  margin-top: 0px;
+  margin-left: -7px;
+  background-color: #e50914 !important;
+  color: rgb(242, 240, 240) !important;
+  height: 70px;
+  width: 390px;
+  border-color: #e50914 !important;
+  border-radius: 0 !important;
+  font-size: 33px !important;
+  font-weight: 490 !important;
+  font-family: netflix;
+}
+.content10{
+  padding-top: 55px;
+  padding-left: 440px;
+  font-size: 1.2rem;
+  color: white;
+}
+.plus{
+  color: white;
+  margin-left: 1290px;
+  margin-top: -60px;
+}
+.footer{
+  width: 100%;
+  height: 488px;
+  background-color: black;
+  padding-top: 63px;
+}
+.content11{
+  margin-left: 175px;
+  margin-bottom: 37px;
+  color: rgb(190, 186, 186);
+  font-size: 17px;
+}
+.content12{
+  margin-left: 175px;
+  margin-bottom: 15px;
+  color: rgb(190, 186, 186);
+  font-size: 15px;
+}
+.ftrcntnt1{
+margin-top: -194px;
+}
+.content13{
+  margin-left: 570px;
+  margin-bottom: 15px;
+  color: rgb(190, 186, 186);
+  font-size: 15px;
+}
+.ftrcntnt2{
+  margin-top: -166px;
+  }
+  .content14{
+    margin-left: 963px;
+    margin-bottom: 15px;
+    color: rgb(190, 186, 186);
+    font-size: 15px;
+  }
+  .ftrcntnt3{
+    margin-top: 18px;
+    }
+    .ftrlang{
+      margin-top: 30px;
+      margin-left: -822px;
+    }
+    .content15{
+      margin-left: 175px;
+      margin-bottom: 15px;
+      color: rgb(190, 186, 186);
+      font-size: 15px;
+    }
+    .content12,.content13,.content14{
+    text-decoration: underline !important;
+    cursor: pointer;
+   }
+   .playbutton{
+    width: 130px;
+    height: 50px;
+    margin-left: 170px;
+    margin-top: 270px;
+    color: azure !important;
+    font-weight: bolder !important;
+    font-size: 20px !important;
+    background-color: gray !important;
+    border-color: black !important;
+    border-end-start-radius: 40px !important;
+    border-top-right-radius: 40px !important;
+    animation: reverse 3s linear infinite !important;
+    animation-duration: 20s;
+    position: static;
+}
+.playbutton:hover{
+  background-color: rgb(63, 60, 60) !important;
+  font-size: 27px !important;
+}
+.bg2{
+  margin-top: -65px;
+  width: 100%;
+  background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+  background-size: cover;
+  background-color: #111;
+  height: 890px;
+  color: white;
+}
+.main{
+  background-color: #111 !important;
+ 
+}
+.posters{
+  margin-left: 20px;
+  color: white;
+  background-color: #111 !important;
+
+}
+.poster{
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.poster::-webkit-scrollbar{
+ display: none; 
+}
+.imgposter{
+  max-height: 250px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.imgposter:hover{
+  transform: scale(1.1);
+}
+.posters2{
+  margin-left: 20px;
+  color: white;
+
+}
+.poster2{
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.poster2::-webkit-scrollbar{
+  display: none; 
+ }
+.imgposter2{
+  max-height: 250px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.imgposter2:hover{
+  transform: scale(1.1);
+}
+.posters3{
+  margin-left: 20px;
+  color: white;
+}
+.poster3{
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.poster3::-webkit-scrollbar{
+  display: none; 
+ }
+.imgposter3{
+  max-height: 250px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.imgposter3:hover{
+  transform: scale(1.1);
+}
+.content20{
+  margin-left: 300px;
+  margin-top: 100px;
+  height: 290px;
+  font-weight: 1000px !important;
+  font-weight: bold;
+  font-size: 3.3rem;
+}
